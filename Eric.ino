@@ -7,7 +7,8 @@ void Point()
    digitalWrite(LED_BUILTIN, HIGH);     
    delay(200);                          
    digitalWrite(LED_BUILTIN, LOW);    
-   delay(200);                           
+   delay(200);  
+}                         
 void Line()
 {
    digitalWrite(LED_BUILTIN, HIGH);       
